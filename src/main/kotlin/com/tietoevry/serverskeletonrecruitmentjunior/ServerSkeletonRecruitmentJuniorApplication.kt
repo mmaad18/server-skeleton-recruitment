@@ -1,11 +1,11 @@
-package com.tietoevry.serverskeletonrecruitmentjunior
+package com.tietoevry.serverskeletonrecruitment
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ServerSkeletonRecruitmentJuniorApplication
+class ServerSkeletonRecruitmentApplication
 
 fun main(args: Array<String>) {
-    runApplication<ServerSkeletonRecruitmentJuniorApplication>(*args)
+    runApplication<ServerSkeletonRecruitmentApplication>(*args)
 }

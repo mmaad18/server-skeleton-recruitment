@@ -1,4 +1,4 @@
-package com.tietoevry.serverskeletonrecruitmentjunior.client
+package com.tietoevry.serverskeletonrecruitment.client
 
 class EventClient {
 }

@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tietoevry</groupId>
-    <artifactId>server-skeleton-recruitment-junior</artifactId>
+    <artifactId>server-skeleton-recruitment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>server-skeleton-recruitment-junior</name>
-    <description>server-skeleton-recruitment-junior</description>
+    <name>server-skeleton-recruitment</name>
+    <description>server-skeleton-recruitment</description>
     <url/>
     <licenses>
         <license/>

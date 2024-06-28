@@ -1,4 +1,4 @@
-package com.tietoevry.serverskeletonrecruitmentjunior.controller
+package com.tietoevry.serverskeletonrecruitment.controller
 
 class PersonController {
 }

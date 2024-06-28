@@ -1,1 +1,1 @@
-# server-skeleton-recruitment-junior
+# server-skeleton-recruitment

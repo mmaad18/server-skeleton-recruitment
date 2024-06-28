@@ -1,4 +1,4 @@
-package com.tietoevry.serverskeletonrecruitmentjunior.dao
+package com.tietoevry.serverskeletonrecruitment.dao
 
 class EventDAO {
 }
